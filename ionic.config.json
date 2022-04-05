@@ -1,0 +1,7 @@
+{
+  "name": "calcul-radio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
